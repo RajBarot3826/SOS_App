@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "344130778574",
+    "project_id": "safereach-ddc65",
+    "storage_bucket": "safereach-ddc65.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344130778574:android:53242a6d102968b0eca79f",
+        "android_client_info": {
+          "package_name": "com.safereach.safereach"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR0duEIbhG2sIuzak4jCC0wm7Y8kLUTB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
